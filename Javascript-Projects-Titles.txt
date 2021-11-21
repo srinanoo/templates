@@ -1,0 +1,36 @@
+1) Rows and Columns - accept no. of rows and columns from user and build a table
+2) Rotate a String - accept string from user and rotate the string (if "target" entered, then it will move like argett, rgetta, gettar, etc.,)
+3) Remove a character at the specified position of a given string and return the new string - accept the string, and the position to remove from the user
+4) Count the number of vowels in a given string - accept the string from user
+5) Swap the first and last elements of a given array of integers
+6) Calculate the sum of n + n/2 + n/4 + n/8 + .... - accept the number from the user
+7) Find longest string from a given array
+8) Palindrome
+9) Prime Number (divisble by 1 and its own number)
+10) Fibonacci Series (0, 1, 1, 2, 3, 5, 8, 13, 21, 34....)
+11) Factorial of a number (6 = 6 x 5 x 4 x 3 x 2 x 1 = 720)
+12) Construct a pattern (using loop) - get the total number from user
+^
+^^
+^^^
+^^^^
+^^^^^
+^^^^^^
+13) Pyramid pattern (using loop)
+
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+14) Form Validations
+15) JavaScript calculator
+16) Task List (Add, Delete)
+17) Progress Bar
+18) Collapsible Container with Content (toggle)
